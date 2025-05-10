@@ -10,7 +10,7 @@
 - **Mode:** Singleplayer  
 - **Inspiration:** *Salawat Dedaunan* (Indonesian short story)  
 - **Engine:** Unity  
-- **Platform:** Windows (x86_64)
+- **Platform:** Windows (x86_64), Windows (x86_32), MacOS X
 
 ---
 
